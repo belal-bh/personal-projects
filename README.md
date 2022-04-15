@@ -4,6 +4,18 @@ Here are some list of my pet projects.
 
 **NOTE**: Some of them are not completed. Some of them are not well documented. I will try to update those projects.
 
+## COVID19-ResNet50-TL
+Link: [https://github.com/belal-bh/COVID19-ResNet50-TL](https://github.com/belal-bh/COVID19-ResNet50-TL)
+
+This repository contains code implementations and description of the research experiments for detecting COVID-19 from chest X-ray images. The research paper **[Transfer learning with fine-tuned deep CNN ResNet50 model for classifying COVID-19 from chest X-ray images](https://www.sciencedirect.com/science/article/pii/S235291482200065X)** is publicly available in the **[Informatics in Medicine Unlocked](https://www.sciencedirect.com/journal/informatics-in-medicine-unlocked) (Elsevier)** journal.
+
+* Python
+* PyTorch
+* Machine Learning
+* Deep Learning
+* Transfer Learning
+* Computer Vision
+* Research Paper
 
 ## DSEC
 Link: [https://github.com/cseai/dsec](https://github.com/cseai/dsec)
